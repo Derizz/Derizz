@@ -15,5 +15,5 @@ Me chamo Bruno Gomes Da Silva, tenho 18 anos e sou natural de Goias. Concluí o 
 ### 🤖 Estatisticas
 
 <p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=Derizz&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Derizz&theme=dark" alt="GitHub Streak" />
 </p>
